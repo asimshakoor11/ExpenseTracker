@@ -1,0 +1,19 @@
+
+
+
+
+*{
+  box-sizing: border-box;
+}
+
+html{
+  font-family: 'Noto Sans JP', 'sans-serif';
+}
+
+body{
+  margin: 0;
+  /* background-color: #b7ffd5; */
+  background-color: #c8d8e4 ;
+  /* background-color: #F6F4E8 ; */
+
+}
